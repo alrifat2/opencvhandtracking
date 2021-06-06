@@ -1,6 +1,6 @@
 opencvhandtracking
 =======
-![PyPI](https://img.shields.io/pypi/v/opencv-handtracking) [![Contributors](https://img.shields.io/badge/contributers-1-orange.svg?style=flat-square)](#contributors-) ![GitHub last commit](https://img.shields.io/github/last-commit/AlDevStuff/opencvhandtracking) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AlDevStuff/opencvhandtracking) ![GitHub](https://img.shields.io/github/license/AlDevStuff/opencvhandtracking)
+![PyPI](https://img.shields.io/pypi/v/opencv-handtracking) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/opencv-handtracking) [![Contributors](https://img.shields.io/badge/contributers-1-orange.svg?style=flat-square)](#contributors-) ![GitHub last commit](https://img.shields.io/github/last-commit/AlDevStuff/opencvhandtracking) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AlDevStuff/opencvhandtracking) ![GitHub](https://img.shields.io/github/license/AlDevStuff/opencvhandtracking)
 
 
 
