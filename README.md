@@ -1,14 +1,11 @@
 opencvhandtracking
 =======
-
-[![version](https://img.shields.io/pypi/v/entente?style=flat-square)][pypi] [![python version](https://img.shields.io/pypi/pyversions/entente?style=flat-square)][pypi] [![Contributors](https://img.shields.io/badge/all_contributors-54-orange.svg?style=flat-square)](#contributors-) [![license](https://img.shields.io/pypi/l/entente?style=flat-square)][pypi] [![build](https://img.shields.io/circleci/project/github/lace/entente/main?style=flat-square)][build]
+![PyPI](https://img.shields.io/pypi/v/opencvhandtracking) [![Contributors](https://img.shields.io/badge/contributers-1-orange.svg?style=flat-square)](#contributors-) ![GitHub last commit](https://img.shields.io/github/last-commit/AlDevStuff/opencvhandtracking) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AlDevStuff/opencvhandtracking) ![GitHub](https://img.shields.io/github/license/AlDevStuff/opencvhandtracking)
 
 
 
 Library for OPENCV users. Easily implement hand tracking to your project without any manual work.
 
-[pypi]: https://pypi.org/project/entente/
-[build]: https://circleci.com/gh/lace/entente/tree/main
 
 Features
 --------
