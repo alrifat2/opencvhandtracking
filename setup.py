@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'opencvhandtracking',
-  packages = ['opencvhandtracking'],
+  name = 'opencv-handtracking',
+  packages = ['opencv-handtracking'],
   version = '0.1',
   license='MIT',
   description = 'OpenCV Hand Tracking Modules. Skip right to the real deal without dealing with hand tracking.',
