@@ -36,4 +36,3 @@ class HandGesture():
                     cv2.circle(img, (cx, cy), 10, (124, 252, 0), cv2.FILLED)
 
         return landmarkList
-
